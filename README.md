@@ -1,0 +1,1 @@
+This is Covey's first Git project
